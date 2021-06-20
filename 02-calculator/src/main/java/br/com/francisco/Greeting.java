@@ -1,4 +1,4 @@
-package br.com.erudio;
+package br.com.francisco;
 
 public class Greeting {
 	
